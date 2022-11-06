@@ -1,2 +1,0 @@
-# NavigationDemo
-navigation component demo
